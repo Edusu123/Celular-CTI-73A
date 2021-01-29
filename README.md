@@ -3,4 +3,4 @@ Projeto desenvolvido em sala de aula durante meu 3º ano no CTI - Colégio Técn
 
 ## OBJETIVOS
 - Familiarização com a arquitetura MVC em C#;
-- Conheciimento sobre integração de projetos Windows Forms com bancos de dados PostgreSQL;
+- Conhecimento sobre integração de projetos Windows Forms com bancos de dados PostgreSQL;
